@@ -1,0 +1,204 @@
+h1
+{
+  font-size:8rem;
+
+}
+.pian{
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+height:550px;
+width:560px;
+position:relative;
+left:500px;
+background-image: url("piano.png");
+bottom:500px;
+
+}
+.piano{
+  height: 400px;
+  width:410px;
+  position:absolute;
+  text-align: center;
+  left:75px;
+  background-color: #9dab86;
+}
+
+body{
+  margin-top: 50px;
+  background-color: #c2e8ce;
+  padding-top: 50px;;
+}
+.poem
+{
+  height:500px;
+  width:400px;
+  position:relative;
+  top:75px;
+}
+p{
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.po
+{
+  height:300px;
+  width:200px;
+  background-color: #dfddc7;
+  position: absolute;;
+  left:1200px;
+}
+.poko
+{
+  height: 200px;
+  width: 200px;
+
+}
+.piano:hover{
+  background-color: #ffd369;
+}
+.io
+{
+  font-size: 3rem;
+  text-align: center;
+  position: relative;
+  bottom:300px;
+  width:500px;
+  height:400px;
+  left:150px;
+}
+.zoo{
+height:300px;
+width:300px;
+border-radius: 100%;
+}
+.zooo
+{
+  height:300px;
+  width:300px;
+  position: relative;
+  bottom:400px;
+  left:900px;
+}
+.zooo:hover{
+  background-image: url("hope.png");
+}
+.iop
+{
+  font-size: 3rem;
+  text-align: center;
+  position: relative;
+  bottom:600px;
+  width:500px;
+  height:300px;
+  left:500px;
+background-color: #9dab86;;
+}
+.ko
+{position:relative;
+  bottom:100px;
+
+}
+.up
+{
+  height:200px;
+  width:200px;
+  position: absolute;
+  bottom:200px;
+  left:40px;
+}
+.opium
+{
+  font-size: 1.4rem;
+  position:relative;
+  bottom:400px;
+
+
+}
+.man
+{
+  height:400px;
+  width:350px;
+}
+form
+{
+  background-color: white;
+  position: relative;
+  bottom:250px;
+  left:30px;
+}
+form:hover{
+  background-image: url("topi.png");
+}
+a{
+  position: relative;
+  text-align: center;
+  left:400px;
+  bottom:200px;
+
+}
+footer{
+  text-align: center;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+/* code by webdevtrick ( https://webdevtrick.com ) */
+.owl
+{
+  color:maroon;
+  padding-bottom:30px;
+  height:100px;
+  width:100%;
+  margin-bottom: 50px;
+  margin-top:0;
+}
+pre{
+  background-color: grey;
+}
+.pi
+{
+  height:60px;
+  width:100px;
+  background-color:white;
+}
+pre:hover{
+  color:maroon;
+}
+.pi:hover
+{
+  color:red;
+}
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}
+}
+
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
